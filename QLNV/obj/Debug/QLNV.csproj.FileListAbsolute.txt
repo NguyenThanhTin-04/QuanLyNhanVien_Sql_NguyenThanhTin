@@ -1,0 +1,12 @@
+D:\NguyenThanhTin_C#\QLNV\QLNV\bin\Debug\QLNV.exe.config
+D:\NguyenThanhTin_C#\QLNV\QLNV\bin\Debug\QLNV.exe
+D:\NguyenThanhTin_C#\QLNV\QLNV\bin\Debug\QLNV.pdb
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.exe
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.pdb
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.Form2.resources
+D:\NguyenThanhTin_C#\QLNV\QLNV\obj\Debug\QLNV.Form3.resources
